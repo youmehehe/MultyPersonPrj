@@ -1,1 +1,2 @@
 # MultyPersonPrj
+ssh try error
